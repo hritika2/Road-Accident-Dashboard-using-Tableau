@@ -9,3 +9,9 @@
   - Timeframe: 2019–2022 (dates modified)
   - Format: CSV, imported as a Tableau extract for faster performance
   - Data Prep: Cleaned, validated, and assigned correct data types (including geographic types for lat/long)
+
+# Dashboard Features
+  ## Filters
+   - Current Year
+   - Previous Year
+   - Accident Severity: Fatal, Serious, Slight
