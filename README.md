@@ -15,3 +15,12 @@
    - Current Year
    - Previous Year
    - Accident Severity: Fatal, Serious, Slight
+
+   ## KPIs
+
+   Displayed vertically for clarity:
+      - Total Accidents
+      - Total Casualties
+      - Fatal Casualties
+      - Serious Casualties
+      - Slight Casualties
