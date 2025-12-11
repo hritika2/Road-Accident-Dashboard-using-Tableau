@@ -18,7 +18,6 @@
 
    ## KPIs
 
-   Displayed vertically for clarity:
    
    - Total Accidents
    - Total Casualties
