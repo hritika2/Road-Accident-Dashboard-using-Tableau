@@ -2,6 +2,8 @@
    An end-to-end analytical Tableau project built using ~660,000 accident records from Kaggle (dummy/demo dataset).
    The project focuses on KPI development, dynamic parameters, monthly trends, and interactive visual exploration of accident patterns across four years.
 
+   🔗 Live Dashboard Link : https://public.tableau.com/views/road_accidents_16843456350800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Dataset Overview
   - Source: Kaggle (dummy/demo dataset; not real-time/governmental)
   - Size: ~660,000 records
